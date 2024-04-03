@@ -52,7 +52,7 @@ Here's the breakdown of the top data analyst jobs in India in 2023:
 - **Job Title Variety:**  There is a variety of job titles among the top-paying roles, including Senior Business & Data Analyst, Financial Data Analyst, and Healthcare Research & Data Analyst, indicating the diverse applications and specialties within the data analysis domain in India.
 
 
-![Top Paying Roles](assets\1_top_paying_roles.png)
+![Top Paying Roles](assets/1_top_paying_roles.png)
 
 This graph helps in visualizing the salary for the top 10 paying data analyst jobs in India.
 
@@ -85,7 +85,7 @@ Here's the breakdown of the most demanded skills for data analysts in India in 2
  - **Python** follows closely behind, with 5 appearances among the top-paying roles.
  - Other skills like Power BI,Tableau, R, and Pandas show varying degrees of demand among the top-paying data analyst roles in India.
 
-![Top Paying Job Skills](assets\2_top_paying_job_skills.png)
+![Top Paying Job Skills](assets/2_top_paying_job_skills.png)
 *This graph helps in visualizing the top paying skills for Data Analyst Jobs*
 
 ### 3. In-Demand Skills for Data Analysts
