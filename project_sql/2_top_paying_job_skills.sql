@@ -26,10 +26,9 @@ FROM top_paying_jobs
 ORDER BY salary_year_avg DESC;
 /*
  Here's the breakdown of the most demanded skills for data analysts in India in 2023, based on job postings:
- - SQL is the most demanded skill, appearing in 9 out of 10 top-paying job listings.
+ - SQL and Excel are the most demanded skills. 
  - Python follows closely behind, with 5 appearances among the top-paying roles.
- - Tableau is also highly sought after, featuring in 4 of the top-paying job listings.
- - Other skills like Excel, R, and Pandas show varying degrees of demand among the top-paying data analyst roles in India.
+ - Other skills like Power BI,Tableau, R, and Pandas show varying degrees of demand among the top-paying data analyst roles in India.
  
  [
  {
